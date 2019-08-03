@@ -1,0 +1,12 @@
+<dir>
+        <title>Funny Movies</title>
+        <tmdb>list/63097</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Robot Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63092</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>

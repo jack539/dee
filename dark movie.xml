@@ -1,0 +1,101 @@
+<dir>
+<title>1 Play</title>
+<link>https://raw.githubusercontent.com/darkseid12/new/master/1%20play.xml</link>
+</dir>
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+ <dir>
+        <title>New Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/97791</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/momoney12/run/master/tmdbyear2.xml</link>
+</dir>
+<dir>
+   <title>Dc & Marval</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/Dc%20%26%20Marval.xml</link>
+</dir>
+
+<dir>
+   <title>Beast</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/t%20beast.xml</link>
+</dir>
+<dir>
+   <title>criminal</title>
+   <link>https://raw.githubusercontent.com/galactus2858/plus/master/criminal.xml</link>
+</dir>
+<dir>
+   <title>Mythology</title>
+   <link>https://raw.githubusercontent.com/galactus2858/plus/master/t%20mythology.xml</link>
+</dir>
+<dir>
+   <title>sports</title>
+   <link>https://raw.githubusercontent.com/galactus2858/plus/master/t%20sports.xml</link>
+</dir>
+<dir>
+        <title>Robot Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63092</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+   <title>Fight</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/t%20fight.xml</link>
+</dir>
+<dir>
+   <title>Kids</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/t%20kids%20place.xml</link>
+</dir>
+
+<dir>
+   <title>Urban</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/Urban.xml</link>
+</dir>
+<dir>
+   <title>Scifi</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/power%20scifi.xml</link>
+</dir>
+<dir>
+   <title>Actors List</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/actors%20list.xml</link>
+</dir>
+
+<dir>
+   <title>Woman's World</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/Her%20Place.xml</link>
+</dir>
+<dir>
+   <title>Horror</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/horro.xml</link>
+</dir>
+<dir>
+        <title>Funny Movies</title>
+        <tmdb>list/63097</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Disaster movies</title>
+        <tmdb>list/63722</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Space movies</title>
+        <tmdb>list/63176</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Suspense movies</title>
+        <tmdb>list/63312</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>

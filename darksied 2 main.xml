@@ -1,0 +1,30 @@
+
+<dir>
+   <title>Movies</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/dark%20movie.xml</link>
+</dir>
+
+<dir>
+   <title>Tv</title>
+   <link>https://raw.githubusercontent.com/darkseid12/new/master/s%20tv.xml</link>
+</dir>
+
+<dir>
+   <title>Productions and Directors</title>
+   <link>https://raw.githubusercontent.com/momoney12/run/master/Productions%20and%20Directors.xml</link>
+</dir>
+
+<dir>
+   <title>Actors and Actess</title>
+   <link>https://raw.githubusercontent.com/galactus2858/plus/master/actors%20and%20actess.xml</link>
+</dir>
+<dir>
+<title>Search</title>
+<tmdb>search</tmdb>
+</dir>
+
+<plugin>
+    <name>Settings</name>
+    <link>plugin://plugin.video.darkseid 2/?action=openSettings</link>
+    <thumbnail></thumbnail>
+</plugin>

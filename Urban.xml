@@ -1,0 +1,151 @@
+
+<dir>
+<title>Stage Plays</title>
+<tmdb>list/https://www.themoviedb.org/list/50618</tmdb>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Motown</title>
+<tmdb>list/https://www.themoviedb.org/list/51461</tmdb>
+<thumbnail></thumbnail>
+</dir>
+<xml>
+  <dir>
+    <title>Concert</title>
+    <link>https://raw.githubusercontent.com/Overwatch12/doomfist/master/concert.xml</link>
+	<thumbnail></thumbnail>
+  </dir>
+
+<xml>
+  <dir>
+    <title>Actors</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/Urban%20actors.xml</link>
+	<thumbnail></thumbnail>
+  </dir>
+<dir>
+<title>50 cent/DMX</title>
+<tmdb>list/https://www.themoviedb.org/list/49174</tmdb>
+</dir>
+
+<dir><dir>
+<title>Ving Rhmes</title>
+<tmdb>list/https://www.themoviedb.org/list/62367</tmdb>
+</dir>
+
+<dir><dir>
+<title>Mo'Nique</title>
+<tmdb>list/64373</tmdb>
+</dir>
+
+<dir>
+<title>Laurence Fishburne</title>
+<tmdb>list/64615</tmdb>
+</dir>
+
+<dir><dir>
+<title>Larenz Tate/Terrence Howard</title>
+<tmdb>list/64611</tmdb>
+</dir>
+
+<dir>
+<title>Boris Kodjoe / Mekhi Phifer </title>
+<tmdb>list/https://www.themoviedb.org/list/49489</tmdb>
+</dir>
+
+<dir>
+<title>Denzel Washington/Dwayan Johnson</title>
+<tmdb>list/https://www.themoviedb.org/list/49283</tmdb>
+</dir>
+
+<dir>
+<title>Jordan Peele/Keegan-Michael Key</title>
+<tmdb>list/https://www.themoviedb.org/list/50042</tmdb>
+</dir>
+
+<dir>
+<title>Samuel Jacksn</title>
+<tmdb>list/https://www.themoviedb.org/list/49043</tmdb>
+</dir>
+
+<dir>
+<title>Shemear Moore/Morris Chestnut</title>
+<tmdb>list/https://www.themoviedb.org/list/49258</tmdb>
+</dir>
+
+<dir>
+<title>Taraji p Henson/Gabrielle Union/Vivica A. Fox</title>
+<tmdb>list/https://www.themoviedb.org/list/101559</tmdb>
+</dir>
+
+<dir>
+<title>Tyler Perry</title>
+<tmdb>list/https://www.themoviedb.org/list/48265</tmdb>
+</dir>
+
+<dir>
+<title>Wesley Snipes/Cuba Gooding Jr/Michael Jai White</title>
+<tmdb>list/https://www.themoviedb.org/list/101560</tmdb>
+</dir>
+
+<dir>
+<title>Will Smith/Jamie Foxx</title>
+<tmdb>list/https://www.themoviedb.org/list/50190</tmdb>
+</dir>
+
+<dir>
+<title>Ice Cube/Tyrese/</title>
+<tmdb>list/https://www.themoviedb.org/list/101670</tmdb>
+</dir>
+
+<dir><dir>
+<title>Sanaa Lathan/ Halle Berry</title>
+<tmdb>list/https://www.themoviedb.org/list/51392</tmdb>
+</dir>
+ 
+ <dir>
+  <title>Hood Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/collector/master/icu%20hood.xml</link>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>B Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>B Movies 2</title>
+<tmdb>list/https://www.themoviedb.org/list/51248</tmdb>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>lovers only</title>
+<tmdb>list/https://www.themoviedb.org/list/48099</tmdb>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Dance</title>
+<tmdb>list/https://www.themoviedb.org/list/48623</tmdb>
+<thumbnail></thumbnail>
+</dir>
+
+<xml>
+  <dir>
+    <title>Comedy</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20comedy.xml</link>
+	<thumbnail></thumbnail>
+ </dir>
+
+ <dir>
+<title>Urban Tv</title>
+<tmdb>list/https://www.themoviedb.org/list/97693</tmdb>
+</dir>
+
+ <dir>
+<title>Urban gangster movies</title>
+<tmdb>list/https://www.themoviedb.org/list/101974</tmdb>
+</dir>
